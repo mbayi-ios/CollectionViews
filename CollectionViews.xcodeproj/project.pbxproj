@@ -13,6 +13,7 @@
 		89F1A9E829AFD5A4000A5BEC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89F1A9E629AFD5A4000A5BEC /* Main.storyboard */; };
 		89F1A9EA29AFD5A8000A5BEC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89F1A9E929AFD5A8000A5BEC /* Assets.xcassets */; };
 		89F1A9ED29AFD5A8000A5BEC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89F1A9EB29AFD5A8000A5BEC /* LaunchScreen.storyboard */; };
+		89F1A9F529AFD78B000A5BEC /* PhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89F1A9F429AFD78B000A5BEC /* PhotoCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		89F1A9E929AFD5A8000A5BEC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		89F1A9EC29AFD5A8000A5BEC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89F1A9EE29AFD5A8000A5BEC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89F1A9F429AFD78B000A5BEC /* PhotoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				89F1A9E929AFD5A8000A5BEC /* Assets.xcassets */,
 				89F1A9EB29AFD5A8000A5BEC /* LaunchScreen.storyboard */,
 				89F1A9EE29AFD5A8000A5BEC /* Info.plist */,
+				89F1A9F429AFD78B000A5BEC /* PhotoCollectionViewCell.swift */,
 			);
 			path = CollectionViews;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				89F1A9E529AFD5A4000A5BEC /* ViewController.swift in Sources */,
+				89F1A9F529AFD78B000A5BEC /* PhotoCollectionViewCell.swift in Sources */,
 				89F1A9E129AFD5A4000A5BEC /* AppDelegate.swift in Sources */,
 				89F1A9E329AFD5A4000A5BEC /* SceneDelegate.swift in Sources */,
 			);
